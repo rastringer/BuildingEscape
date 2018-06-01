@@ -3,11 +3,11 @@
 #########################
 
 *_BuiltData.uasset
-*/Build
-*/Binaries
-*/DerivedDataCache
-*/Intermediate
-*/Saved
+Build/*
+Binaries/*
+DerivedDataCache/*
+Intermediate/*
+Saved/*
 BuildingEscape/Content/StarterContent/
 
 ################################
