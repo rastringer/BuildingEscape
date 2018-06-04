@@ -14,4 +14,9 @@ BuildingEscape/Content/StarterContent/
 # Visual Studio generated files#
 ################################
 
+*.VC.opendb
+*.opendb
+*.opensdf
+*.sdf
+*.cachefile
 *.VC.db
